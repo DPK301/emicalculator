@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emicalculator/static/css/main.a240c550.css",
+    "main.js": "/emicalculator/static/js/main.7b5c9456.js",
+    "index.html": "/emicalculator/index.html",
+    "main.a240c550.css.map": "/emicalculator/static/css/main.a240c550.css.map",
+    "main.7b5c9456.js.map": "/emicalculator/static/js/main.7b5c9456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.7b5c9456.js"
+  ]
+}
